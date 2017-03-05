@@ -1,0 +1,6 @@
+framework module Pods_dbnetworktest {
+  umbrella header "Pods-dbnetworktest-umbrella.h"
+
+  export *
+  module * { export * }
+}
